@@ -52,5 +52,4 @@ Mkfile.old
 dkms.conf
 
 
-xv6/
 qemu/
